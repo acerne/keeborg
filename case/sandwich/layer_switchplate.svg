@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="layer_switchplate.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#4c4c4c"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="399.30867"
+     inkscape:cy="882.38445"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="3440"
+     inkscape:window-height="1417"
+     inkscape:window-x="1072"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="switchplate"
+     style="display:inline">
+    <g
+       id="g4627">
+      <g
+         transform="translate(26.774244,5.332577)"
+         id="g208" />
+      <polygon
+         points="7.098,92.583 7,93.202 7.098,93.82 7.382,94.377 7.825,94.82 8.382,95.104 9.001,95.202 9.619,95.104 10.176,94.82 10.619,94.377 10.903,93.82 11.001,93.202 10.903,92.583 10.619,92.026 10.176,91.583 9.619,91.299 9.001,91.202 8.382,91.299 7.825,91.583 7.382,92.026 "
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.05mm"
+         id="polygon116"
+         transform="translate(26.774244,5.332577)" />
+      <polygon
+         points="82.536,8.382 82.439,9.001 82.536,9.619 82.82,10.176 83.263,10.619 83.82,10.903 84.439,11.001 85.057,10.903 85.614,10.619 86.057,10.176 86.341,9.619 86.439,9.001 86.341,8.382 86.057,7.825 85.614,7.382 85.057,7.098 84.439,7.001 83.82,7.098 83.263,7.382 82.82,7.825 "
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.05mm"
+         id="polygon164"
+         transform="translate(26.774244,5.332577)" />
+      <polygon
+         points="7.098,8.382 7,9.001 7.098,9.619 7.382,10.176 7.825,10.619 8.382,10.903 9.001,11.001 9.619,10.903 10.176,10.619 10.619,10.176 10.903,9.619 11.001,9.001 10.903,8.382 10.619,7.825 10.176,7.382 9.619,7.098 9.001,7.001 8.382,7.098 7.825,7.382 7.382,7.825 "
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.05mm"
+         id="polygon168"
+         transform="translate(26.774244,5.332577)" />
+      <g
+         id="g277-4"
+         style="display:inline"
+         transform="translate(26.774244,5.332577)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="polygon247-6"
+         d="m 143.17029,100.43658 0.557,-0.284 0.443,-0.443003 0.284,-0.557 0.098,-0.618 -0.098,-0.619 -0.284,-0.557 -0.443,-0.443 -0.557,-0.284 -0.618,-0.097 -0.619,0.097 -0.557,0.284 -0.443,0.443 -0.284,0.557 -0.097,0.619 0.097,0.618 0.284,0.557 0.443,0.443003 0.557,0.284 0.619,0.098 z"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.05mm" />
+      <polygon
+         transform="matrix(1.9430414,0,0,1.9622797,26.655103,-152.52048)"
+         points="85.057,91.299 84.439,91.202 83.82,91.299 83.263,91.583 82.82,92.026 82.536,92.583 82.439,93.202 82.536,93.82 82.82,94.377 83.263,94.82 83.82,95.104 84.439,95.202 85.057,95.104 85.614,94.82 86.057,94.377 86.341,93.82 86.439,93.202 86.341,92.583 86.057,92.026 85.614,91.583 "
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.05mm"
+         id="polygon249-0" />
+      <polygon
+         transform="translate(34.774298,5.332531)"
+         points="161.052,10.619 161.495,10.176 161.779,9.619 161.877,9.001 161.779,8.382 161.495,7.825 161.052,7.382 160.495,7.098 159.877,7.001 159.258,7.098 158.701,7.382 158.258,7.825 157.974,8.382 157.877,9.001 157.974,9.619 158.258,10.176 158.701,10.619 159.258,10.903 159.877,11.001 160.495,10.903 "
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.05mm"
+         id="polygon257-2" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccc"
+         id="polygon247-2-3"
+         d="m 195.26965,48.337198 0.557,-0.284 0.443,-0.443 0.284,-0.557 0.098,-0.618 -0.098,-0.619 -0.284,-0.557 -0.443,-0.443 -0.557,-0.284 -0.618,-0.097 -0.619,0.097 -0.557,0.284 -0.443,0.443 -0.284,0.557 -0.097,0.619 0.097,0.618 0.284,0.557 0.443,0.443 0.557,0.284 0.619,0.098 z"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.05mm"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccsscccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="polygon245-5-8"
+         d="m 198.06565,10.918575 0.106,0.116 0.098,0.123 0.087,0.131 0.077,0.137 0.065,0.142 0.055,0.147 0.042,0.152 0.031,0.154 0.018,0.156 0.007,0.157 v 36.101873 l -0.007,0.156001 c 0,0 -0.01,0.104295 -0.018,0.155998 -0.008,0.05172 -0.0189,0.103066 -0.031,0.154001 -0.0122,0.05113 -0.042,0.152 -0.042,0.152 l -0.055,0.147 -0.065,0.142 -0.077,0.137001 -0.087,0.130998 -0.098,0.122502 -52.206,52.215631 -0.116,0.106 -0.123,0.098 -0.131,0.087 -0.137,0.077 -0.142,0.065 -0.147,0.055 -0.152,0.042 -0.154,0.031 c 0,0 -0.10316,0.014 -0.15535,0.018 -0.0521,0.004 -44.2553,0.006 -44.2553,0.006 l -66.677759,0.001 -0.157,-0.007 -0.156,-0.018 -0.154,-0.0309 -0.152,-0.042 -0.147,-0.055 -0.142,-0.065 -0.137,-0.077 -0.131,-0.087 -0.123,-0.098 -0.116,-0.106 -0.106,-0.116 -0.098,-0.12301 -0.087,-0.13099 -0.077,-0.137 -0.065,-0.142 -0.055,-0.147 -0.042,-0.152 -0.031,-0.154 -0.018,-0.156 -0.007,-0.156 0.001,-88.201005 0.006,-0.157 0.018,-0.156 0.031,-0.154 0.042,-0.152 0.055,-0.147 0.065,-0.142 0.077,-0.137 0.087,-0.131 0.098,-0.123 0.106,-0.116 0.116,-0.106 0.123,-0.098 0.131,-0.087 0.137,-0.077 0.142,-0.065 0.147,-0.055 0.152,-0.042 0.154,-0.031 0.156,-0.018 0.157,-0.007 162.876409,0.001 0.156,0.006 0.156,0.018 0.154,0.031 0.152,0.042 0.147,0.055 0.142,0.065 0.137,0.077 0.131,0.087 0.123,0.098 z"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.05mm" />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3865"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="26.288,64.676 12.288,64.676 12.288,78.676 26.288,78.676 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3867"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="50.101,64.676 36.101,64.676 36.101,78.676 50.101,78.676 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3869"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="69.151,64.676 55.151,64.676 55.151,78.676 69.151,78.676 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3871"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="97.726,64.676 83.726,64.676 83.726,78.676 97.726,78.676 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3873"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="26.288,45.626 12.288,45.626 12.288,59.626 26.288,59.626 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3875"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="50.101,45.626 36.101,45.626 36.101,59.626 50.101,59.626 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3877"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="69.151,45.626 55.151,45.626 55.151,59.626 69.151,59.626 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3879"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="88.201,45.626 74.201,45.626 74.201,59.626 88.201,59.626 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3881"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="107.251,45.626 93.251,45.626 93.251,59.626 107.251,59.626 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3883"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="126.301,45.626 112.301,45.626 112.301,59.626 126.301,59.626 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3885"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="26.288,26.576 12.288,26.576 12.288,40.576 26.288,40.576 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3887"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="50.101,26.576 36.101,26.576 36.101,40.576 50.101,40.576 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3889"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="69.151,26.576 55.151,26.576 55.151,40.576 69.151,40.576 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3891"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="88.201,26.576 74.201,26.576 74.201,40.576 88.201,40.576 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3893"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="107.251,26.576 93.251,26.576 93.251,40.576 107.251,40.576 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3895"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="126.301,26.576 112.301,26.576 112.301,40.576 126.301,40.576 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3899"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="145.351,17.051 131.351,17.051 131.351,31.051 145.351,31.051 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3901"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="26.288,7.526 12.288,7.526 12.288,21.526 26.288,21.526 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3903"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="50.101,7.526 36.101,7.526 36.101,21.526 50.101,21.526 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3905"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="69.151,7.526 55.151,7.526 55.151,21.526 69.151,21.526 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3907"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="88.201,7.526 74.201,7.526 74.201,21.526 88.201,21.526 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3909"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="107.251,7.526 93.251,7.526 93.251,21.526 107.251,21.526 " />
+      <polygon
+         transform="translate(34.774244,13.332577)"
+         id="polygon3911"
+         style="fill:none;stroke:#000000;stroke-width:0.05mm"
+         points="126.301,7.526 112.301,7.526 112.301,21.526 126.301,21.526 " />
+    </g>
+  </g>
+</svg>
