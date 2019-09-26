@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "A:/Development/keeborg/lib/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name is31fl3731)(type Legacy)(uri A:/Development/keeborg/lib/keyboard_parts.pretty/is31fl3731.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri A:/Development/keeborg/lib/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+)
