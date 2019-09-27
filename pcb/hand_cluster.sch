@@ -488,28 +488,6 @@ F 3 "~" H 4600 4600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N4148 DD5
-U 1 1 5D942C37
-P 5700 4850
-F 0 "DD5" V 5746 4771 50  0000 R CNN
-F 1 "1N4148" V 5655 4771 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5700 4675 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5700 4850 50  0001 C CNN
-	1    5700 4850
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push_45deg SWD5
-U 1 1 5D942C3D
-P 5600 4600
-F 0 "SWD5" H 5600 4881 50  0000 C CNN
-F 1 "Cherry MX" H 5600 4790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 5600 4600 50  0001 C CNN
-F 3 "~" H 5600 4600 50  0001 C CNN
-	1    5600 4600
-	1    0    0    -1  
-$EndComp
-$Comp
 L Diode:1N4148 DD6
 U 1 1 5D942C43
 P 6700 4850
@@ -519,17 +497,6 @@ F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6700 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6700 4850 50  0001 C CNN
 	1    6700 4850
 	0    -1   -1   0   
-$EndComp
-$Comp
-L Switch:SW_Push_45deg SWD6
-U 1 1 5D942C49
-P 6600 4600
-F 0 "SWD6" H 6600 4881 50  0000 C CNN
-F 1 "Cherry MX" H 6600 4790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 6600 4600 50  0001 C CNN
-F 3 "~" H 6600 4600 50  0001 C CNN
-	1    6600 4600
-	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push_45deg SWD1
@@ -594,11 +561,6 @@ Wire Wire Line
 	3700 5000 4700 5000
 Connection ~ 4700 5000
 Wire Wire Line
-	4700 5000 5700 5000
-Connection ~ 5700 5000
-Wire Wire Line
-	5700 5000 6700 5000
-Wire Wire Line
 	1500 1500 1500 2500
 Connection ~ 1500 2500
 Wire Wire Line
@@ -636,14 +598,10 @@ Connection ~ 5500 2500
 Wire Wire Line
 	5500 2500 5500 3500
 Connection ~ 5500 3500
-Wire Wire Line
-	5500 3500 5500 4500
 Connection ~ 6500 2500
 Wire Wire Line
 	6500 2500 6500 3500
 Connection ~ 6500 3500
-Wire Wire Line
-	6500 3500 6500 4500
 Text GLabel 1000 2000 0    50   Output ~ 0
 RowA
 Text GLabel 1000 3000 0    50   Output ~ 0
@@ -699,213 +657,375 @@ Connection ~ 6500 1500
 $Comp
 L promicro:ProMicro U1
 U 1 1 5D8BE4AA
-P 9900 4100
-F 0 "U1" H 9900 5137 60  0000 C CNN
-F 1 "ProMicro" H 9900 5031 60  0000 C CNN
-F 2 "promicro:ProMicro" H 10000 3050 60  0001 C CNN
-F 3 "" H 10000 3050 60  0001 C CNN
-	1    9900 4100
+P 9300 1950
+F 0 "U1" H 9300 2987 60  0000 C CNN
+F 1 "ProMicro" H 9300 2881 60  0000 C CNN
+F 2 "promicro:ProMicro" H 9400 900 60  0001 C CNN
+F 3 "" H 9400 900 60  0001 C CNN
+	1    9300 1950
 	1    0    0    -1  
 $EndComp
-Text GLabel 10600 3750 2    50   Input ~ 0
+Text GLabel 10000 1600 2    50   Input ~ 0
 RowA
-Text GLabel 10600 3850 2    50   Input ~ 0
+Text GLabel 10000 1700 2    50   Input ~ 0
 RowB
-Text GLabel 10600 3950 2    50   Input ~ 0
+Text GLabel 10000 1800 2    50   Input ~ 0
 RowC
-Text GLabel 9200 3950 0    50   Output ~ 0
-Col1
-Text GLabel 9200 4050 0    50   Output ~ 0
+Text GLabel 8600 1900 0    50   Input ~ 0
 Col2
-Text GLabel 9200 4150 0    50   Output ~ 0
+Text GLabel 8600 2000 0    50   Input ~ 0
 Col3
-Text GLabel 9200 4250 0    50   Output ~ 0
+Text GLabel 8600 2100 0    50   Input ~ 0
 Col4
-Text GLabel 9200 4350 0    50   Output ~ 0
+Text GLabel 8600 2200 0    50   Input ~ 0
 Col5
-Text GLabel 9200 4450 0    50   Output ~ 0
+Text GLabel 8600 2300 0    50   Input ~ 0
 Col6
-Text GLabel 10600 4050 2    50   Input ~ 0
+Text GLabel 10000 1900 2    50   Input ~ 0
 RowD
+Text GLabel 10000 1400 2    50   Input ~ 0
+Reset
 $Comp
-L Connector:AudioJack4 J?
-U 1 1 5D8DBAC7
-P 8250 3150
-F 0 "J?" H 8207 3475 50  0000 C CNN
-F 1 "AudioJack4" H 8207 3384 50  0000 C CNN
-F 2 "" H 8250 3150 50  0001 C CNN
-F 3 "~" H 8250 3150 50  0001 C CNN
-	1    8250 3150
+L power:GND #PWR?
+U 1 1 5D907480
+P 8500 1400
+F 0 "#PWR?" H 8500 1150 50  0001 C CNN
+F 1 "GND" V 8505 1272 50  0000 R CNN
+F 2 "" H 8500 1400 50  0001 C CNN
+F 3 "" H 8500 1400 50  0001 C CNN
+	1    8500 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5D909990
+P 10000 1300
+F 0 "#PWR?" H 10000 1050 50  0001 C CNN
+F 1 "GND" V 10005 1172 50  0000 R CNN
+F 2 "" H 10000 1300 50  0001 C CNN
+F 3 "" H 10000 1300 50  0001 C CNN
+	1    10000 1300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5D912516
+P 10000 1500
+F 0 "#PWR?" H 10000 1350 50  0001 C CNN
+F 1 "VCC" V 10017 1628 50  0000 L CNN
+F 2 "" H 10000 1500 50  0001 C CNN
+F 3 "" H 10000 1500 50  0001 C CNN
+	1    10000 1500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8500 1400 8550 1400
+Text GLabel 8600 1800 0    50   Input ~ 0
+Col1
+Wire Wire Line
+	8600 1500 8550 1500
+Wire Wire Line
+	8550 1500 8550 1400
+Connection ~ 8550 1400
+Wire Wire Line
+	8550 1400 8600 1400
+Text GLabel 8600 1600 0    50   Input ~ 0
+SCL
+Text GLabel 8600 1700 0    50   Input ~ 0
+SDA
+$Comp
+L power:VCC #PWR?
+U 1 1 5D93054D
+P 10100 3500
+F 0 "#PWR?" H 10100 3350 50  0001 C CNN
+F 1 "VCC" H 10117 3673 50  0000 C CNN
+F 2 "" H 10100 3500 50  0001 C CNN
+F 3 "" H 10100 3500 50  0001 C CNN
+	1    10100 3500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9200 3850 8600 3850
+	6500 3500 6500 4500
 Wire Wire Line
-	8600 3850 8600 3250
-Wire Wire Line
-	9200 3750 8650 3750
-Wire Wire Line
-	8650 3750 8650 3150
-Wire Wire Line
-	8450 2250 8600 2250
-Connection ~ 8600 2250
-Wire Wire Line
-	8450 2150 8650 2150
-Connection ~ 8650 2150
-Wire Wire Line
-	8450 3250 8600 3250
-Connection ~ 8600 3250
-Wire Wire Line
-	8600 3250 8600 2250
-Wire Wire Line
-	8450 3150 8650 3150
-Connection ~ 8650 3150
-Wire Wire Line
-	8650 3150 8650 2150
+	5500 3500 5500 4500
+Text GLabel 8600 1200 0    50   Input ~ 0
+Enc1A
+Text GLabel 8600 1300 0    50   Input ~ 0
+Enc1B
+Text GLabel 10000 2200 2    50   Input ~ 0
+Enc2A
+Text GLabel 10000 2300 2    50   Input ~ 0
+Enc2B
 $Comp
-L Device:R R?
-U 1 1 5D8DE870
-P 9000 1850
-F 0 "R?" H 9070 1896 50  0000 L CNN
-F 1 "2.2k" H 9070 1805 50  0000 L CNN
-F 2 "" V 8930 1850 50  0001 C CNN
-F 3 "~" H 9000 1850 50  0001 C CNN
-	1    9000 1850
+L power:GND #PWR?
+U 1 1 5D9C6829
+P 3300 5500
+F 0 "#PWR?" H 3300 5250 50  0001 C CNN
+F 1 "GND" V 3305 5372 50  0000 R CNN
+F 2 "" H 3300 5500 50  0001 C CNN
+F 3 "" H 3300 5500 50  0001 C CNN
+	1    3300 5500
+	0    -1   -1   0   
+$EndComp
+Text GLabel 3300 5400 2    50   Input ~ 0
+Enc1B
+Text GLabel 3300 5600 2    50   Input ~ 0
+Enc1A
+$Comp
+L Device:Rotary_Encoder_Switch ESW1
+U 1 1 5DA01490
+P 3000 5500
+F 0 "ESW1" H 3000 5133 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 3000 5224 50  0000 C CNN
+F 2 "" H 2850 5660 50  0001 C CNN
+F 3 "~" H 3000 5760 50  0001 C CNN
+	1    3000 5500
+	-1   0    0    1   
+$EndComp
+Text GLabel 5300 5600 2    50   Input ~ 0
+Enc2A
+Text GLabel 5300 5400 2    50   Input ~ 0
+Enc2B
+$Comp
+L power:GND #PWR?
+U 1 1 5D9C7675
+P 5300 5500
+F 0 "#PWR?" H 5300 5250 50  0001 C CNN
+F 1 "GND" V 5305 5372 50  0000 R CNN
+F 2 "" H 5300 5500 50  0001 C CNN
+F 3 "" H 5300 5500 50  0001 C CNN
+	1    5300 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch ESW2
+U 1 1 5D9E8790
+P 5000 5500
+F 0 "ESW2" H 5000 5133 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 5000 5224 50  0000 C CNN
+F 2 "" H 4850 5660 50  0001 C CNN
+F 3 "~" H 5000 5760 50  0001 C CNN
+	1    5000 5500
+	-1   0    0    1   
+$EndComp
+Text GLabel 1000 6000 0    50   Output ~ 0
+RowE
+Wire Wire Line
+	5700 5000 6700 5000
+Wire Wire Line
+	4700 5000 5700 5000
+Connection ~ 5700 5000
+$Comp
+L Diode:1N4148 DD5
+U 1 1 5D942C37
+P 5700 4850
+F 0 "DD5" V 5746 4771 50  0000 R CNN
+F 1 "1N4148" V 5655 4771 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5700 4675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5700 4850 50  0001 C CNN
+	1    5700 4850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push_45deg SWD5
+U 1 1 5DAFCF42
+P 5600 4600
+F 0 "SWD5" H 5600 4881 50  0000 C CNN
+F 1 "Cherry MX" H 5600 4790 50  0000 C CNN
+F 2 "keyboard_parts:Kailh_MX_Socket" H 5600 4600 50  0001 C CNN
+F 3 "~" H 5600 4600 50  0001 C CNN
+	1    5600 4600
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
-U 1 1 5D8E29FE
-P 9300 1850
-F 0 "R?" H 9370 1896 50  0000 L CNN
-F 1 "2.2k" H 9370 1805 50  0000 L CNN
-F 2 "" V 9230 1850 50  0001 C CNN
-F 3 "~" H 9300 1850 50  0001 C CNN
-	1    9300 1850
+L Switch:SW_Push_45deg SWD6
+U 1 1 5DAFEB4D
+P 6600 4600
+F 0 "SWD6" H 6600 4881 50  0000 C CNN
+F 1 "Cherry MX" H 6600 4790 50  0000 C CNN
+F 2 "keyboard_parts:Kailh_MX_Socket" H 6600 4600 50  0001 C CNN
+F 3 "~" H 6600 4600 50  0001 C CNN
+	1    6600 4600
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	8550 3650 9200 3650
-Wire Wire Line
-	8450 3050 8550 3050
-Connection ~ 8550 3050
-Wire Wire Line
-	8450 2050 8550 2050
 $Comp
-L Connector:AudioJack4 J?
-U 1 1 5D8DABF8
-P 8250 2150
-F 0 "J?" H 8207 2475 50  0000 C CNN
-F 1 "AudioJack4" H 8207 2384 50  0000 C CNN
-F 2 "" H 8250 2150 50  0001 C CNN
-F 3 "~" H 8250 2150 50  0001 C CNN
-	1    8250 2150
-	1    0    0    -1  
+L Diode:1N4148 DESW1
+U 1 1 5DB02838
+P 2700 5850
+F 0 "DESW1" V 2746 5771 50  0000 R CNN
+F 1 "1N4148" V 2655 5771 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2700 5675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2700 5850 50  0001 C CNN
+	1    2700 5850
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	8550 2050 8550 3050
-Wire Wire Line
-	8550 3050 8550 3650
-Wire Wire Line
-	9000 2000 9000 2150
-Wire Wire Line
-	9000 2150 8650 2150
-Wire Wire Line
-	9300 2000 9300 2250
-Wire Wire Line
-	9300 2250 8600 2250
-Wire Wire Line
-	8500 2350 8450 2350
-Wire Wire Line
-	8500 2350 8500 3350
-Wire Wire Line
-	8500 3350 8450 3350
-Connection ~ 8500 2350
 $Comp
-L Switch:SW_Push SW?
-U 1 1 5D91C647
-P 10350 2350
-F 0 "SW?" V 10396 2302 50  0000 R CNN
-F 1 "SW_Push" V 10305 2302 50  0000 R CNN
-F 2 "" H 10350 2550 50  0001 C CNN
-F 3 "~" H 10350 2550 50  0001 C CNN
-	1    10350 2350
+L Diode:1N4148 DESW2
+U 1 1 5DB07651
+P 4700 5850
+F 0 "DESW2" V 4746 5771 50  0000 R CNN
+F 1 "1N4148" V 4655 5771 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4700 5675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4700 5850 50  0001 C CNN
+	1    4700 5850
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	10350 2550 10350 3100
+	1000 6000 2700 6000
 Wire Wire Line
-	10350 3100 10700 3100
+	2700 5700 2700 5600
 Wire Wire Line
-	10700 3100 10700 3550
+	2700 5400 2500 5400
 Wire Wire Line
-	10700 3550 10600 3550
+	2500 5400 2500 4500
+Connection ~ 2500 4500
 Wire Wire Line
-	8500 1350 8450 1350
-Connection ~ 8550 2050
+	2700 6000 4700 6000
+Connection ~ 2700 6000
 Wire Wire Line
-	8550 1050 8550 2050
+	4700 5700 4700 5600
 Wire Wire Line
-	8450 1050 8550 1050
+	4700 5400 4500 5400
 Wire Wire Line
-	8650 2150 8650 1150
+	4500 5400 4500 4500
+Connection ~ 4500 4500
+Text GLabel 10000 2000 2    50   Input ~ 0
+RowE
+Text GLabel 8300 4650 0    50   Input ~ 0
+SDA
+Text GLabel 8300 4550 0    50   Input ~ 0
+SCL
 Wire Wire Line
-	8600 2250 8600 1250
+	9800 4550 8800 4550
+Connection ~ 9800 4550
 Wire Wire Line
-	8650 1150 8450 1150
+	9800 4050 9800 4550
 Wire Wire Line
-	8600 1250 8450 1250
+	9700 4650 10400 4650
+Connection ~ 9700 4650
+Wire Wire Line
+	9700 4150 9700 4650
+Wire Wire Line
+	8800 4050 8800 4550
+Wire Wire Line
+	8700 4650 9700 4650
+Wire Wire Line
+	10100 4550 9800 4550
+Wire Wire Line
+	10100 4150 10100 4550
+Wire Wire Line
+	10400 4650 10400 4150
+Wire Wire Line
+	10100 3650 10100 3850
+Connection ~ 10100 3650
+Wire Wire Line
+	10100 3500 10100 3650
+Wire Wire Line
+	10400 3650 10400 3850
+Wire Wire Line
+	10100 3650 10400 3650
+$Comp
+L Device:R R?
+U 1 1 5D930547
+P 10400 4000
+F 0 "R?" H 10470 4046 50  0000 L CNN
+F 1 "2.2k" H 10470 3955 50  0000 L CNN
+F 2 "" V 10330 4000 50  0001 C CNN
+F 3 "~" H 10400 4000 50  0001 C CNN
+	1    10400 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5D930541
+P 10100 4000
+F 0 "R?" H 10170 4046 50  0000 L CNN
+F 1 "2.2k" H 10170 3955 50  0000 L CNN
+F 2 "" V 10030 4000 50  0001 C CNN
+F 3 "~" H 10100 4000 50  0001 C CNN
+	1    10100 4000
+	1    0    0    -1  
+$EndComp
 $Comp
 L Connector:AudioJack4 J?
-U 1 1 5D8CFC31
-P 8250 1150
-F 0 "J?" H 8207 1475 50  0000 C CNN
-F 1 "AudioJack4" H 8207 1384 50  0000 C CNN
-F 2 "" H 8250 1150 50  0001 C CNN
-F 3 "~" H 8250 1150 50  0001 C CNN
-	1    8250 1150
+U 1 1 5D92A51B
+P 9200 4050
+F 0 "J?" H 9157 4375 50  0000 C CNN
+F 1 "AudioJack4" H 9157 4284 50  0000 C CNN
+F 2 "" H 9200 4050 50  0001 C CNN
+F 3 "~" H 9200 4050 50  0001 C CNN
+	1    9200 4050
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR?
-U 1 1 5D92F538
-P 11050 3550
-F 0 "#PWR?" H 11050 3400 50  0001 C CNN
-F 1 "VCC" H 11067 3723 50  0000 C CNN
-F 2 "" H 11050 3550 50  0001 C CNN
-F 3 "" H 11050 3550 50  0001 C CNN
-	1    11050 3550
+L Connector:AudioJack4 J?
+U 1 1 5D9289C4
+P 8200 4050
+F 0 "J?" H 8157 4375 50  0000 C CNN
+F 1 "AudioJack4" H 8157 4284 50  0000 C CNN
+F 2 "" H 8200 4050 50  0001 C CNN
+F 3 "~" H 8200 4050 50  0001 C CNN
+	1    8200 4050
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	11050 3550 11050 3650
-Wire Wire Line
-	10600 3650 11050 3650
+$Comp
+L power:GND #PWR?
+U 1 1 5DB4527F
+P 8400 3950
+F 0 "#PWR?" H 8400 3700 50  0001 C CNN
+F 1 "GND" V 8405 3822 50  0000 R CNN
+F 2 "" H 8400 3950 50  0001 C CNN
+F 3 "" H 8400 3950 50  0001 C CNN
+	1    8400 3950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5DB461F2
+P 9400 3950
+F 0 "#PWR?" H 9400 3700 50  0001 C CNN
+F 1 "GND" V 9405 3822 50  0000 R CNN
+F 2 "" H 9400 3950 50  0001 C CNN
+F 3 "" H 9400 3950 50  0001 C CNN
+	1    9400 3950
+	0    -1   -1   0   
+$EndComp
 $Comp
 L power:VCC #PWR?
-U 1 1 5D934AC0
-P 9000 1350
-F 0 "#PWR?" H 9000 1200 50  0001 C CNN
-F 1 "VCC" H 9017 1523 50  0000 C CNN
-F 2 "" H 9000 1350 50  0001 C CNN
-F 3 "" H 9000 1350 50  0001 C CNN
-	1    9000 1350
-	1    0    0    -1  
+U 1 1 5DB47039
+P 8400 4250
+F 0 "#PWR?" H 8400 4100 50  0001 C CNN
+F 1 "VCC" V 8417 4378 50  0000 L CNN
+F 2 "" H 8400 4250 50  0001 C CNN
+F 3 "" H 8400 4250 50  0001 C CNN
+	1    8400 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5DB47E1D
+P 9400 4250
+F 0 "#PWR?" H 9400 4100 50  0001 C CNN
+F 1 "VCC" V 9417 4378 50  0000 L CNN
+F 2 "" H 9400 4250 50  0001 C CNN
+F 3 "" H 9400 4250 50  0001 C CNN
+	1    9400 4250
+	0    1    1    0   
 $EndComp
 Wire Wire Line
-	8500 1350 8500 1500
+	8700 4150 8700 4650
 Wire Wire Line
-	9000 1500 9300 1500
+	8300 4550 8800 4550
+Connection ~ 8800 4550
 Wire Wire Line
-	9300 1500 9300 1700
+	8300 4650 8700 4650
+Connection ~ 8700 4650
 Wire Wire Line
-	9000 1350 9000 1500
-Connection ~ 9000 1500
+	8400 4150 8700 4150
 Wire Wire Line
-	9000 1500 9000 1700
+	8400 4050 8800 4050
 Wire Wire Line
-	9000 1500 8500 1500
-Connection ~ 8500 1500
+	9400 4050 9800 4050
 Wire Wire Line
-	8500 1500 8500 2350
+	9400 4150 9700 4150
 $EndSCHEMATC
