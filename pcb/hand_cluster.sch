@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:left-cache
+LIBS:hand_cluster-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -31,7 +31,7 @@ U 1 1 5D8BD699
 P 1600 1600
 F 0 "SWA1" H 1600 1881 50  0000 C CNN
 F 1 "Cherry MX" H 1600 1790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 1600 1600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 1600 1600 50  0001 C CNN
 F 3 "~" H 1600 1600 50  0001 C CNN
 	1    1600 1600
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5D8D7E24
 P 2600 1600
 F 0 "SWA2" H 2600 1881 50  0000 C CNN
 F 1 "Cherry MX" H 2600 1790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 2600 1600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 2600 1600 50  0001 C CNN
 F 3 "~" H 2600 1600 50  0001 C CNN
 	1    2600 1600
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5D8D87E6
 P 3600 1600
 F 0 "SWA3" H 3600 1881 50  0000 C CNN
 F 1 "Cherry MX" H 3600 1790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 3600 1600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 3600 1600 50  0001 C CNN
 F 3 "~" H 3600 1600 50  0001 C CNN
 	1    3600 1600
 	1    0    0    -1  
@@ -97,7 +97,7 @@ U 1 1 5D8D8F52
 P 4600 1600
 F 0 "SWA4" H 4600 1881 50  0000 C CNN
 F 1 "Cherry MX" H 4600 1790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 4600 1600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 4600 1600 50  0001 C CNN
 F 3 "~" H 4600 1600 50  0001 C CNN
 	1    4600 1600
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5D8D9798
 P 5600 1600
 F 0 "SWA5" H 5600 1881 50  0000 C CNN
 F 1 "Cherry MX" H 5600 1790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 5600 1600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 5600 1600 50  0001 C CNN
 F 3 "~" H 5600 1600 50  0001 C CNN
 	1    5600 1600
 	1    0    0    -1  
@@ -141,7 +141,7 @@ U 1 1 5D8DA242
 P 6600 1600
 F 0 "SWA6" H 6600 1881 50  0000 C CNN
 F 1 "Cherry MX" H 6600 1790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 6600 1600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 6600 1600 50  0001 C CNN
 F 3 "~" H 6600 1600 50  0001 C CNN
 	1    6600 1600
 	1    0    0    -1  
@@ -174,7 +174,7 @@ U 1 1 5D911972
 P 2600 2600
 F 0 "SWB2" H 2600 2881 50  0000 C CNN
 F 1 "Cherry MX" H 2600 2790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 2600 2600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 2600 2600 50  0001 C CNN
 F 3 "~" H 2600 2600 50  0001 C CNN
 	1    2600 2600
 	1    0    0    -1  
@@ -196,7 +196,7 @@ U 1 1 5D91197E
 P 3600 2600
 F 0 "SWB3" H 3600 2881 50  0000 C CNN
 F 1 "Cherry MX" H 3600 2790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 3600 2600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 3600 2600 50  0001 C CNN
 F 3 "~" H 3600 2600 50  0001 C CNN
 	1    3600 2600
 	1    0    0    -1  
@@ -218,7 +218,7 @@ U 1 1 5D91198A
 P 4600 2600
 F 0 "SWB4" H 4600 2881 50  0000 C CNN
 F 1 "Cherry MX" H 4600 2790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 4600 2600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 4600 2600 50  0001 C CNN
 F 3 "~" H 4600 2600 50  0001 C CNN
 	1    4600 2600
 	1    0    0    -1  
@@ -240,7 +240,7 @@ U 1 1 5D911996
 P 5600 2600
 F 0 "SWB5" H 5600 2881 50  0000 C CNN
 F 1 "Cherry MX" H 5600 2790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 5600 2600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 5600 2600 50  0001 C CNN
 F 3 "~" H 5600 2600 50  0001 C CNN
 	1    5600 2600
 	1    0    0    -1  
@@ -262,7 +262,7 @@ U 1 1 5D9119A2
 P 6600 2600
 F 0 "SWB6" H 6600 2881 50  0000 C CNN
 F 1 "Cherry MX" H 6600 2790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 6600 2600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 6600 2600 50  0001 C CNN
 F 3 "~" H 6600 2600 50  0001 C CNN
 	1    6600 2600
 	1    0    0    -1  
@@ -273,7 +273,7 @@ U 1 1 5D911966
 P 1600 2600
 F 0 "SWB1" H 1600 2881 50  0000 C CNN
 F 1 "Cherry MX" H 1600 2790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 1600 2600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 1600 2600 50  0001 C CNN
 F 3 "~" H 1600 2600 50  0001 C CNN
 	1    1600 2600
 	1    0    0    -1  
@@ -306,7 +306,7 @@ U 1 1 5D93998D
 P 2600 3600
 F 0 "SWC2" H 2600 3881 50  0000 C CNN
 F 1 "Cherry MX" H 2600 3790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 2600 3600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 2600 3600 50  0001 C CNN
 F 3 "~" H 2600 3600 50  0001 C CNN
 	1    2600 3600
 	1    0    0    -1  
@@ -328,7 +328,7 @@ U 1 1 5D939999
 P 3600 3600
 F 0 "SWC3" H 3600 3881 50  0000 C CNN
 F 1 "Cherry MX" H 3600 3790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 3600 3600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 3600 3600 50  0001 C CNN
 F 3 "~" H 3600 3600 50  0001 C CNN
 	1    3600 3600
 	1    0    0    -1  
@@ -350,7 +350,7 @@ U 1 1 5D9399A5
 P 4600 3600
 F 0 "SWC4" H 4600 3881 50  0000 C CNN
 F 1 "Cherry MX" H 4600 3790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 4600 3600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 4600 3600 50  0001 C CNN
 F 3 "~" H 4600 3600 50  0001 C CNN
 	1    4600 3600
 	1    0    0    -1  
@@ -372,7 +372,7 @@ U 1 1 5D9399B1
 P 5600 3600
 F 0 "SWC5" H 5600 3881 50  0000 C CNN
 F 1 "Cherry MX" H 5600 3790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 5600 3600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 5600 3600 50  0001 C CNN
 F 3 "~" H 5600 3600 50  0001 C CNN
 	1    5600 3600
 	1    0    0    -1  
@@ -394,7 +394,7 @@ U 1 1 5D9399BD
 P 6600 3600
 F 0 "SWC6" H 6600 3881 50  0000 C CNN
 F 1 "Cherry MX" H 6600 3790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 6600 3600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 6600 3600 50  0001 C CNN
 F 3 "~" H 6600 3600 50  0001 C CNN
 	1    6600 3600
 	1    0    0    -1  
@@ -405,7 +405,7 @@ U 1 1 5D9399C3
 P 1600 3600
 F 0 "SWC1" H 1600 3881 50  0000 C CNN
 F 1 "Cherry MX" H 1600 3790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 1600 3600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 1600 3600 50  0001 C CNN
 F 3 "~" H 1600 3600 50  0001 C CNN
 	1    1600 3600
 	1    0    0    -1  
@@ -438,7 +438,7 @@ U 1 1 5D942C19
 P 2600 4600
 F 0 "SWD2" H 2600 4881 50  0000 C CNN
 F 1 "Cherry MX" H 2600 4790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 2600 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 2600 4600 50  0001 C CNN
 F 3 "~" H 2600 4600 50  0001 C CNN
 	1    2600 4600
 	1    0    0    -1  
@@ -460,7 +460,7 @@ U 1 1 5D942C25
 P 3600 4600
 F 0 "SWD3" H 3600 4881 50  0000 C CNN
 F 1 "Cherry MX" H 3600 4790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 3600 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 3600 4600 50  0001 C CNN
 F 3 "~" H 3600 4600 50  0001 C CNN
 	1    3600 4600
 	1    0    0    -1  
@@ -482,7 +482,7 @@ U 1 1 5D942C31
 P 4600 4600
 F 0 "SWD4" H 4600 4881 50  0000 C CNN
 F 1 "Cherry MX" H 4600 4790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 4600 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 4600 4600 50  0001 C CNN
 F 3 "~" H 4600 4600 50  0001 C CNN
 	1    4600 4600
 	1    0    0    -1  
@@ -504,7 +504,7 @@ U 1 1 5D942C4F
 P 1600 4600
 F 0 "SWD1" H 1600 4881 50  0000 C CNN
 F 1 "Cherry MX" H 1600 4790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 1600 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 1600 4600 50  0001 C CNN
 F 3 "~" H 1600 4600 50  0001 C CNN
 	1    1600 4600
 	1    0    0    -1  
@@ -660,7 +660,7 @@ U 1 1 5D8BE4AA
 P 9300 1950
 F 0 "U1" H 9300 2987 60  0000 C CNN
 F 1 "ProMicro" H 9300 2881 60  0000 C CNN
-F 2 "promicro:ProMicro" H 9400 900 60  0001 C CNN
+F 2 "Keebio-Parts:ArduinoProMicro-Mini-USB" H 9400 900 60  0001 C CNN
 F 3 "" H 9400 900 60  0001 C CNN
 	1    9300 1950
 	1    0    0    -1  
@@ -686,10 +686,10 @@ RowD
 Text GLabel 10000 1400 2    50   Input ~ 0
 Reset
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 5D907480
 P 8500 1400
-F 0 "#PWR?" H 8500 1150 50  0001 C CNN
+F 0 "#PWR0101" H 8500 1150 50  0001 C CNN
 F 1 "GND" V 8505 1272 50  0000 R CNN
 F 2 "" H 8500 1400 50  0001 C CNN
 F 3 "" H 8500 1400 50  0001 C CNN
@@ -697,10 +697,10 @@ F 3 "" H 8500 1400 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0102
 U 1 1 5D909990
 P 10000 1300
-F 0 "#PWR?" H 10000 1050 50  0001 C CNN
+F 0 "#PWR0102" H 10000 1050 50  0001 C CNN
 F 1 "GND" V 10005 1172 50  0000 R CNN
 F 2 "" H 10000 1300 50  0001 C CNN
 F 3 "" H 10000 1300 50  0001 C CNN
@@ -708,10 +708,10 @@ F 3 "" H 10000 1300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR0103
 U 1 1 5D912516
 P 10000 1500
-F 0 "#PWR?" H 10000 1350 50  0001 C CNN
+F 0 "#PWR0103" H 10000 1350 50  0001 C CNN
 F 1 "VCC" V 10017 1628 50  0000 L CNN
 F 2 "" H 10000 1500 50  0001 C CNN
 F 3 "" H 10000 1500 50  0001 C CNN
@@ -734,10 +734,10 @@ SCL
 Text GLabel 8600 1700 0    50   Input ~ 0
 SDA
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR0104
 U 1 1 5D93054D
 P 10100 3500
-F 0 "#PWR?" H 10100 3350 50  0001 C CNN
+F 0 "#PWR0104" H 10100 3350 50  0001 C CNN
 F 1 "VCC" H 10117 3673 50  0000 C CNN
 F 2 "" H 10100 3500 50  0001 C CNN
 F 3 "" H 10100 3500 50  0001 C CNN
@@ -757,10 +757,10 @@ Enc2A
 Text GLabel 10000 2300 2    50   Input ~ 0
 Enc2B
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0105
 U 1 1 5D9C6829
 P 3300 5500
-F 0 "#PWR?" H 3300 5250 50  0001 C CNN
+F 0 "#PWR0105" H 3300 5250 50  0001 C CNN
 F 1 "GND" V 3305 5372 50  0000 R CNN
 F 2 "" H 3300 5500 50  0001 C CNN
 F 3 "" H 3300 5500 50  0001 C CNN
@@ -777,7 +777,7 @@ U 1 1 5DA01490
 P 3000 5500
 F 0 "ESW1" H 3000 5133 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 3000 5224 50  0000 C CNN
-F 2 "" H 2850 5660 50  0001 C CNN
+F 2 "Keebio-Parts:RotaryEncoder_EC11" H 2850 5660 50  0001 C CNN
 F 3 "~" H 3000 5760 50  0001 C CNN
 	1    3000 5500
 	-1   0    0    1   
@@ -787,10 +787,10 @@ Enc2A
 Text GLabel 5300 5400 2    50   Input ~ 0
 Enc2B
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0106
 U 1 1 5D9C7675
 P 5300 5500
-F 0 "#PWR?" H 5300 5250 50  0001 C CNN
+F 0 "#PWR0106" H 5300 5250 50  0001 C CNN
 F 1 "GND" V 5305 5372 50  0000 R CNN
 F 2 "" H 5300 5500 50  0001 C CNN
 F 3 "" H 5300 5500 50  0001 C CNN
@@ -803,7 +803,7 @@ U 1 1 5D9E8790
 P 5000 5500
 F 0 "ESW2" H 5000 5133 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 5000 5224 50  0000 C CNN
-F 2 "" H 4850 5660 50  0001 C CNN
+F 2 "Keebio-Parts:RotaryEncoder_EC11" H 4850 5660 50  0001 C CNN
 F 3 "~" H 5000 5760 50  0001 C CNN
 	1    5000 5500
 	-1   0    0    1   
@@ -832,7 +832,7 @@ U 1 1 5DAFCF42
 P 5600 4600
 F 0 "SWD5" H 5600 4881 50  0000 C CNN
 F 1 "Cherry MX" H 5600 4790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 5600 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 5600 4600 50  0001 C CNN
 F 3 "~" H 5600 4600 50  0001 C CNN
 	1    5600 4600
 	1    0    0    -1  
@@ -843,7 +843,7 @@ U 1 1 5DAFEB4D
 P 6600 4600
 F 0 "SWD6" H 6600 4881 50  0000 C CNN
 F 1 "Cherry MX" H 6600 4790 50  0000 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket" H 6600 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-nosilk" H 6600 4600 50  0001 C CNN
 F 3 "~" H 6600 4600 50  0001 C CNN
 	1    6600 4600
 	1    0    0    -1  
@@ -925,54 +925,54 @@ Wire Wire Line
 Wire Wire Line
 	10100 3650 10400 3650
 $Comp
-L Device:R R?
+L Device:R R2
 U 1 1 5D930547
 P 10400 4000
-F 0 "R?" H 10470 4046 50  0000 L CNN
+F 0 "R2" H 10470 4046 50  0000 L CNN
 F 1 "2.2k" H 10470 3955 50  0000 L CNN
-F 2 "" V 10330 4000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor" V 10330 4000 50  0001 C CNN
 F 3 "~" H 10400 4000 50  0001 C CNN
 	1    10400 4000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R1
 U 1 1 5D930541
 P 10100 4000
-F 0 "R?" H 10170 4046 50  0000 L CNN
+F 0 "R1" H 10170 4046 50  0000 L CNN
 F 1 "2.2k" H 10170 3955 50  0000 L CNN
-F 2 "" V 10030 4000 50  0001 C CNN
+F 2 "Keebio-Parts:Resistor" V 10030 4000 50  0001 C CNN
 F 3 "~" H 10100 4000 50  0001 C CNN
 	1    10100 4000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:AudioJack4 J?
+L Connector:AudioJack4 J2
 U 1 1 5D92A51B
 P 9200 4050
-F 0 "J?" H 9157 4375 50  0000 C CNN
+F 0 "J2" H 9157 4375 50  0000 C CNN
 F 1 "AudioJack4" H 9157 4284 50  0000 C CNN
-F 2 "" H 9200 4050 50  0001 C CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A-dual" H 9200 4050 50  0001 C CNN
 F 3 "~" H 9200 4050 50  0001 C CNN
 	1    9200 4050
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:AudioJack4 J?
+L Connector:AudioJack4 J1
 U 1 1 5D9289C4
 P 8200 4050
-F 0 "J?" H 8157 4375 50  0000 C CNN
+F 0 "J1" H 8157 4375 50  0000 C CNN
 F 1 "AudioJack4" H 8157 4284 50  0000 C CNN
-F 2 "" H 8200 4050 50  0001 C CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A-dual" H 8200 4050 50  0001 C CNN
 F 3 "~" H 8200 4050 50  0001 C CNN
 	1    8200 4050
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0107
 U 1 1 5DB4527F
 P 8400 3950
-F 0 "#PWR?" H 8400 3700 50  0001 C CNN
+F 0 "#PWR0107" H 8400 3700 50  0001 C CNN
 F 1 "GND" V 8405 3822 50  0000 R CNN
 F 2 "" H 8400 3950 50  0001 C CNN
 F 3 "" H 8400 3950 50  0001 C CNN
@@ -980,10 +980,10 @@ F 3 "" H 8400 3950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0108
 U 1 1 5DB461F2
 P 9400 3950
-F 0 "#PWR?" H 9400 3700 50  0001 C CNN
+F 0 "#PWR0108" H 9400 3700 50  0001 C CNN
 F 1 "GND" V 9405 3822 50  0000 R CNN
 F 2 "" H 9400 3950 50  0001 C CNN
 F 3 "" H 9400 3950 50  0001 C CNN
@@ -991,10 +991,10 @@ F 3 "" H 9400 3950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR0109
 U 1 1 5DB47039
 P 8400 4250
-F 0 "#PWR?" H 8400 4100 50  0001 C CNN
+F 0 "#PWR0109" H 8400 4100 50  0001 C CNN
 F 1 "VCC" V 8417 4378 50  0000 L CNN
 F 2 "" H 8400 4250 50  0001 C CNN
 F 3 "" H 8400 4250 50  0001 C CNN
@@ -1002,10 +1002,10 @@ F 3 "" H 8400 4250 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:VCC #PWR?
+L power:VCC #PWR0110
 U 1 1 5DB47E1D
 P 9400 4250
-F 0 "#PWR?" H 9400 4100 50  0001 C CNN
+F 0 "#PWR0110" H 9400 4100 50  0001 C CNN
 F 1 "VCC" V 9417 4378 50  0000 L CNN
 F 2 "" H 9400 4250 50  0001 C CNN
 F 3 "" H 9400 4250 50  0001 C CNN
