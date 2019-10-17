@@ -1,4 +1,4 @@
-update=4.10.19 22:44:01
+update=17.10.19 20:32:34
 version=1
 last_client=pcbnew
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=module_dual_rotary_encoder.net
+LastNetListRead=hand_cluster.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
