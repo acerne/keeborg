@@ -6,11 +6,8 @@ Keeborg is a sandbox prototype inspired from split keyboards like ErgoDox, Iris,
 
 <img src="doc/img/sketch.png"/>
 
-## Status
-Currently working on modular plaid version of the base keyboard. 
-
-Goal right now is to make a simple one-sided reversible pcb design that can be milled at home and put in a simple open-sandwich enclosure. Unused Arduino Pro signals are going to be routed to header pins, where a smaller pcb extension can be mounted. This way I can tryout switches, rotary encoders, joysticks, displays, LEDs and other componets that I would like to try out before putting in design.
-
-For now, only base hand clusters are designed, thumb clusters come next.
-
 <img src="doc/img/layout-base.png"/>
+
+## Status
+Designed a simple one-sided reversible PCB, made a fully functional thumb-less left-hand cluster. Had header connectors for some modular miny-pcb addons. After some testing decided it's not as expected nand abandoned the project. 
+
